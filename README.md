@@ -1,0 +1,1 @@
+Sample of using Jenkins as the CI to deploy an ecommerce application, Terraform to deploy the infrastructure and K8s to help scaling the different microservices (only provided product-catalog as an example).
